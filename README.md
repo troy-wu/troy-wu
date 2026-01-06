@@ -4,7 +4,7 @@
 📅 Expected Graduation: **May 2027**
 
 💼 **Software Developer Co-op @ D2L**  
-🤖 Currently working on **AI-powered features** for **Lumi**  
+🤖 Currently working on **AI-powered features** for **Lumi** in Brightspace.
 🔗 [Learn more about Lumi](https://www.d2l.com/lumi/)
 
 ---
