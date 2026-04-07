@@ -7,7 +7,7 @@
 🤖 Currently working on **AI-powered features** for **Lumi** in Brightspace.
 🔗 [Learn more about Lumi](https://www.d2l.com/lumi/)
 
----
+💼 **Incoming Software Development Engineer Intern @ Amazon**  
 
 ## 🛠️ Tech Stack
 
@@ -27,4 +27,4 @@
 
 ---
 
-⭐ Currently looking for Summer 2026 Internships!
+⭐ Currently looking for Fall 2026 Internships or New Grad Positions in 2027!
