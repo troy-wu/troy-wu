@@ -1,13 +1,17 @@
 ## Hi there 👋 I'm a Business & Computer Science Student at UBC
 
 🎓 **University of British Columbia**  
-📅 Expected Graduation: **May 2027**
+📅 Expected Graduation: **December 2027**
 
 💼 **Software Developer Co-op @ D2L**  
-🤖 Currently working on **AI-powered features** for **Lumi** in Brightspace.
+🤖 Built **AI-powered features** for **Lumi** in Brightspace.
 🔗 [Learn more about Lumi](https://www.d2l.com/lumi/)
 
-💼 **Incoming Software Development Engineer Intern @ Amazon**  
+💼 **Software Development Engineer Intern @ Amazon** 
+🤖 Built ML infrastructure for product recommendation service within Everyday Essentials.
+
+💼 **Software Engineer Intern @ Tesla**  
+🤖 Robotaxi & Grok Valiation
 
 ## 🛠️ Tech Stack
 
@@ -27,4 +31,4 @@
 
 ---
 
-⭐ Currently looking for Fall 2026 Internships or New Grad Positions in 2027!
+⭐ Currently looking for Summer 2027 Internships or New Grad Positions in 2028!
