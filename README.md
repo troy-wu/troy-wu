@@ -7,7 +7,7 @@
 🤖 Built **AI-powered features** for **Lumi** in Brightspace.
 🔗 [Learn more about Lumi](https://www.d2l.com/lumi/)
 
-💼 **Software Development Engineer Intern @ Amazon** 
+💼 **Software Development Engineer Intern @ Amazon**  
 🤖 Built ML infrastructure for product recommendation service within Everyday Essentials.
 
 💼 **Software Engineer Intern @ Tesla**  
