@@ -11,7 +11,7 @@
 🤖 Built ML infrastructure for product recommendation service within Everyday Essentials.
 
 💼 **Software Engineer Intern @ Tesla**  
-🤖 Robotaxi & Grok Valiation
+🤖 Vehicle Software | Maps & Navigation + Robotaxi
 
 ## 🛠️ Tech Stack
 
