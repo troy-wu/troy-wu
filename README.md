@@ -4,16 +4,16 @@
 📅 Expected Graduation: **December 2027**
 
 💼 **Current: Software Engineer Intern @ Tesla**  
-🤖 Vehicle Software | Maps & Navigation + Robotaxi
+🤖 Vehicle Software | Maps & Navigation + Robotaxi\
 August 2026 - Present
 
 💼 **Software Development Engineer Intern @ Amazon**  
-🤖 Built ML infrastructure for product recommendation service within Everyday Essentials.
+🤖 Built ML infrastructure for product recommendation service within Everyday Essentials.\
 May 2026 - August 2026
 
 💼 **Software Developer Co-op @ D2L**  
 🤖 Built **AI-powered features** for **Lumi** in Brightspace.
-🔗 [Learn more about Lumi](https://www.d2l.com/lumi/)
+🔗 [Learn more about Lumi](https://www.d2l.com/lumi/)\
 January 2026 - April 2026
 
 
